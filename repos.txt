@@ -1,0 +1,1257 @@
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/davidbalbert/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:23 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4725","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"0a104c2359a9d19871adc04a11793a82\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/123350/repos?page=2>; rel=\"next\", <https://api.github.com/user/123350/repos?page=4>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"148217","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:AB90:535EE147","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/zachallaun/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:24 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4724","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"e78d1631b5abc066707841eb6a7db4fe\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/503938/repos?page=2>; rel=\"next\", <https://api.github.com/user/503938/repos?page=3>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"145517","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:244B1:535EE147","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/rose/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:25 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4723","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"a51159d73a1fdee5a1b72e4abe8f2288\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"18455","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:18F7C:535EE148","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a1d8c69b807c8e21f06cad9da377d1b0"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/fredantell/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:25 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4722","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"85b30470288f9c929b09362b53ca40b7\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"29139","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A5:7013:535EE149","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/mavant/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:25 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4721","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"bda6677eaf909ddbf4375832c9e76794\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"104993","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2D648:535EE149","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/thomasballinger/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:26 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4720","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"f90205c669e143f7203d0b50064d6e9a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/458879/repos?page=2>; rel=\"next\", <https://api.github.com/user/458879/repos?page=4>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"153533","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A5:7043:535EE14A","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/RalfMBecker/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:26 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4719","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"b2ddbcd5ed51c79d5f80a4876589929e\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"37993","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:ACE0:535EE14A","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/nicholasbs/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:27 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4718","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"6f85c6bbfdef2794e9d10a714a38639c\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/50336/repos?page=2>; rel=\"next\", <https://api.github.com/user/50336/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"143936","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19158:535EE14A","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/laurita/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:28 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4717","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"d52e3e1e713085522f34de04fc5151a7\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"90807","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:1926A:535EE14B","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/brannerchinese/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:28 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4716","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"7280b734512b9c277b3a9c2cbeea54f1\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/549884/repos?page=2>; rel=\"next\", <https://api.github.com/user/549884/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"154878","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24A0D:535EE14C","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/litacho/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:28 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4715","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"75dcee0df07a4a0cc6ef16ee5d03f47a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"102916","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:192F3:535EE14C","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/mchua/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:28 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4714","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"ceba404a67027f40c41cf670756333dc\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"90399","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2DB8F:535EE14C","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c436b2b44345c72ff906059f604991e7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/maryrosecook/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:29 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4713","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"0acc5b75ee9e01fde2864a3d6cd5d9ff\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/2716/repos?page=2>; rel=\"next\", <https://api.github.com/user/2716/repos?page=3>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"149864","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24B11:535EE14D","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/deckman/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:29 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4712","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"5f324f858b8a43a49f717dfc5c304558\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"59788","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24B65:535EE14D","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/davidad/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:29 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4711","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"bd56a8ac2d7e050e20b791e59502dc9a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/87753/repos?page=2>; rel=\"next\", <https://api.github.com/user/87753/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"140353","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:193CC:535EE14D","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"6d7de9e645814cac34ea2a8d72ba3141"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/adewes/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:29 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4710","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"49a0acb34d895bc1a8f1b59d1211127a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"105138","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19400:535EE14D","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/katrinae/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:30 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4709","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"31cc9276b941ad4b21a5b0cd46649f77\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"23784","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2DD8B:535EE14E","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/PaddyBadger/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:30 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4708","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"f620606f93e000629404d8347bce4f71\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"136274","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:F97F:535EE14E","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/andreafey/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:30 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4707","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"cd4f8f8b93b4ffedc256fecfc7e0b2cc\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"37049","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2DE76:535EE14E","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a8d8e492d6966f0c23dee2eed64c678a"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/JdotJdot/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:30 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4706","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"9c1971d7f60d4a8ed849fd07788fb98f\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"82438","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2DEBC:535EE14E","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/urthbound/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:31 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4705","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"4557accf206b812acc91da876a7799f9\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/4204764/repos?page=2>; rel=\"next\", <https://api.github.com/user/4204764/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"138684","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2DF0C:535EE14E","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"6d7de9e645814cac34ea2a8d72ba3141"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/mjzffr/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:31 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4704","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"6c273b1d03a1111d4e7fbd64072325d9\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"36962","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19549:535EE14F","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"d818ddef80f4c7d10683dd483558952a"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/amygdalama/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:31 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4703","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"2998d8d1f9afb2d78e633011b1c19168\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"113583","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FA1F:535EE14F","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/rawrjustin/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:31 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4702","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"d09fc8cc45e75ded189cb463233a01e0\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"76409","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E03F:535EE14F","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/vjuutilainen/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:32 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4701","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"b81021147ab7e4bd403565136b36eed2\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"65040","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24E7D:535EE14F","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/damiankao/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:32 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4700","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"89b01ad06778a623b48274e54c07e1ab\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"44764","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24EAE:535EE150","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/surajkapoor/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:32 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4699","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"510870370f597068966579096070b8b1\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"69213","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FA71:535EE150","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/akaptur/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:32 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4698","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"3d570a9d231c9bf369e6c6cb5248a80b\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/1857780/repos?page=2>; rel=\"next\", <https://api.github.com/user/1857780/repos?page=3>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"140729","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E190:535EE150","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a1d8c69b807c8e21f06cad9da377d1b0"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/brainkim/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:32 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4697","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"a4cf2e10a122572eb9a5be7e19fa1243\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"120740","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:24F7A:535EE150","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/mirkoklukas/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:33 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4696","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"c4eafb615d3c4a08bb9349943ffb157f\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"22194","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:196B8:535EE151","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a1d8c69b807c8e21f06cad9da377d1b0"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/slawrence/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:33 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4695","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"084823a2ea85ff415ef8fff47379bd7b\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"84877","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E2E9:535EE151","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c436b2b44345c72ff906059f604991e7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/paul-jean/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:33 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4694","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"fcecc62c66d5c09911747bb9eaad5380\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"74950","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FAFD:535EE151","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/clin88/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:33 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4693","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"f478a50a65637729b4d1ac6510f6e99f\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"58824","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E3CE:535EE151","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/rubydog/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:33 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4692","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"d8c9eaed2314606911af5eee4c4ed1a5\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"125223","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:1978A:535EE151","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/wismer/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:34 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4691","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"f93d9b623a9d200e9f15be74c5ed5054\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"72955","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E484:535EE152","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/lord/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:34 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4690","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"379bb960594be1c1eae9de55397fc81e\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"113580","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FB79:535EE152","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/zacharym/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:34 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4689","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"0a25321fbbee2ade92a4744a260d685b\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"65822","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19863:535EE152","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/jesstess/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:34 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4688","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"d5ad1213151e2f1d9caa780af26d2e47\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"139169","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:251E4:535EE152","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/miclovich/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:35 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4687","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"a340c162db04ec6e7425789b3941ae42\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/122275/repos?page=2>; rel=\"next\", <https://api.github.com/user/122275/repos?page=14>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"151222","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:B03F:535EE153","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/andreecmonette/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:35 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4686","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"26f779862c338514d09bc1acf6cffbe7\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"82073","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FC26:535EE153","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a1d8c69b807c8e21f06cad9da377d1b0"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/murphsp1/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:35 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4685","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"c2e4c3ecc81e993ffaf502f4254b9c74\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"88510","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E767:535EE153","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"d818ddef80f4c7d10683dd483558952a"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/lucasnewman11/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:36 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4684","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"795e3a37f39694b7d66d02aa21f85e84\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"46060","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FC66:535EE153","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/happy4crazy/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:36 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4683","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"d931e5ea87434d3481acf1f525631b72\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/283381/repos?page=2>; rel=\"next\", <https://api.github.com/user/283381/repos?page=4>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"147962","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E813:535EE154","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/cicerojones/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:36 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4682","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"783ea87c6b0d910ca8824335259ee06e\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"66060","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:25404:535EE154","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/pgayane/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:36 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4681","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"c09dc28eef1da56b76ae5c6385a029e8\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"103132","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:2544C:535EE154","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/yomimono/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4680","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"87c29a7233a6aac5af395bd462f40251\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"33390","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2E97D:535EE154","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/gnprice/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4679","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"f8b13aeb96e1465178f7e3335486e77d\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"68175","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:254DB:535EE155","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/plredmond/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4678","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"a76b6860511cd8045aa69d93d2de1118\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"111827","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2EA08:535EE155","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/christopherjamesryan/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4677","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"47e09491ca09ade90deba9651619a233\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"17272","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2EA64:535EE155","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/marksamman/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4676","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"bcaf9cd3dc2ee98bd6aa2aeb4840558a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"43450","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:B120:535EE155","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/stuartsan/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:37 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4675","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"dd40f5444fea24c497e6e5314ff239cb\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"28993","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FD89:535EE155","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/ginaschmalzle/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:38 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4674","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"ca629fe61fcf4524be77611b55586a60\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"35740","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19BA2:535EE156","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"a1d8c69b807c8e21f06cad9da377d1b0"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/rileyjshaw/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:38 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4673","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"fcf317ec77d064fa20faef6057f7f479\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/1840854/repos?page=2>; rel=\"next\", <https://api.github.com/user/1840854/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"145459","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2EB4F:535EE156","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"6d7de9e645814cac34ea2a8d72ba3141"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/jskelcy/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:38 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4672","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"a9df14e24694624ba04c85cd8212d233\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"76910","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:256CC:535EE156","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"6d7de9e645814cac34ea2a8d72ba3141"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/subsetpark/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:38 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4671","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"8f83ea81c4d44998c9d763ce815e3325\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"61795","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:B184:535EE156","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c046d59f93ede9ab52d5ac29f1ed70f7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/rpsoko/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:39 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4670","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"7809e79f53494507c640bcb5fc429cb4\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"70900","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FE1D:535EE156","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"62a1303ae95931e56e387e87d354bb24"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/will-sommers/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:39 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4669","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"cdf921772b7bf3624cf5aedcec7ba34e\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"126139","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19CBC:535EE157","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"132026e9262a0093e437f99db5f1e499"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/jollysonali/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:39 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4668","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"c0dbe46966db3b00d6f219cb0ae858a5\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"89003","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19D04:535EE157","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"3061975e1f37121b3751604ad153c687"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/leahsteinberg/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:39 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4667","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"8b846106637d471a4fb5ab79755bbb30\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"70651","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A6:FEA5:535EE157","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"03d91026ad8428f4d9966d7434f9d82e"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/ptn/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:39 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4666","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"6d83b6121546c517ff21f41cd9e929ff\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","link":"<https://api.github.com/user/98363/repos?page=2>; rel=\"next\", <https://api.github.com/user/98363/repos?page=2>; rel=\"last\"","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"130745","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A7:19D77:535EE157","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"6d7de9e645814cac34ea2a8d72ba3141"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/madhuvishy/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:40 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4665","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"36175212c77a7aa802f964d55ae56971\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"132602","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44AA:B23C:535EE158","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"d818ddef80f4c7d10683dd483558952a"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/carljv/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:40 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4664","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"5e840a9c145e6fa54438f49df6e9e9e2\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"45986","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2EE66:535EE158","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/neerajwahi/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:40 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4663","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"af4c728e518b7a51d003afa1cb5fb85a\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"19552","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A9:2EE9C:535EE158","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"971af40390ac4398fcdd45c8dab0fbe7"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/adwhit/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:40 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4662","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"9701431b4b822bb48083526071cfb28f\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"57271","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:25917:535EE158","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"88d924ed861736d2749ce1a55766cb53"}
+REQUEST:  { host: 'api.github.com',
+  port: 443,
+  path: '/users/bwigoder/repos',
+  method: 'get',
+  headers: 
+   { host: 'api.github.com',
+     'content-length': '0',
+     authorization: 'Basic cHRuOnpzUEhRMWhSMGZKUWlXWkFMQ2VRZnpnZGZPMnFYTzA1',
+     'user-agent': 'NodeJS HTTP Client',
+     accept: 'application/vnd.github.beta+json' } }
+STATUS: 200
+HEADERS: {"server":"GitHub.com","date":"Mon, 28 Apr 2014 23:16:40 GMT","content-type":"application/json; charset=utf-8","status":"200 OK","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4661","x-ratelimit-reset":"1398729962","cache-control":"private, max-age=60, s-maxage=60","etag":"\"4b0f6abb13f23166a0d0a3fd759eb093\"","vary":"Accept, Authorization, Cookie, X-GitHub-OTP","x-github-media-type":"github.beta; format=json","x-xss-protection":"1; mode=block","x-frame-options":"deny","content-security-policy":"default-src 'none'","content-length":"32410","access-control-allow-credentials":"true","access-control-expose-headers":"ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval","access-control-allow-origin":"*","x-github-request-id":"4AD4B7BA:44A8:2593C:535EE158","strict-transport-security":"max-age=31536000","x-content-type-options":"nosniff","x-served-by":"c436b2b44345c72ff906059f604991e7"}
+repos
+[ 'davidbalbert/davidbalbert.github.com',
+  'davidbalbert/dotfiles',
+  'zachallaun/FunctionalCollections.jl',
+  'rose/boolean-calculator',
+  'rose/distroweb',
+  'rose/openresty-example',
+  'rose/regex-engine',
+  'fredantell/kernel-time',
+  'fredantell/learning',
+  'fredantell/learning-clojure',
+  'mavant/Clippy',
+  'mavant/dwm-config',
+  'mavant/Euler',
+  'mavant/gcj-cli',
+  'mavant/haskell-kaleidoscope',
+  'mavant/LYAH',
+  'mavant/mavant.github.io',
+  'mavant/MC-AIXI',
+  'mavant/pupiltrack',
+  'mavant/pythonic',
+  'mavant/RSA',
+  'mavant/SHA256',
+  'mavant/SICP-exercises',
+  'mavant/toy-recursion-problems',
+  'mavant/Website',
+  'mavant/xmonad-config',
+  'mavant/zulip-aur-package',
+  'thomasballinger/androidtetris',
+  'thomasballinger/anotherexampletictactoe',
+  'thomasballinger/bpython',
+  'thomasballinger/chesley',
+  'thomasballinger/curtsies',
+  'thomasballinger/fmtstr',
+  'RalfMBecker/decaf',
+  'RalfMBecker/kal_gcc',
+  'RalfMBecker/KR',
+  'RalfMBecker/micro.gcc',
+  'RalfMBecker/Miscallenous',
+  'RalfMBecker/Presentations',
+  'RalfMBecker/sorting',
+  'RalfMBecker/test',
+  'laurita/binaryrecommender',
+  'laurita/Chat',
+  'laurita/JobsFriday',
+  'laurita/laurita.github.com',
+  'laurita/NinetyNineScalaProblems',
+  'laurita/pacman',
+  'laurita/SockoExample',
+  'laurita/Stupid',
+  'brannerchinese/brannerchinese.github.io',
+  'brannerchinese/Check-ins_and_to-do_lists',
+  'brannerchinese/ChineseUtilities',
+  'brannerchinese/coding_the_matrix',
+  'brannerchinese/feedergrabber',
+  'brannerchinese/Flask_Grinberg_Tutorial_Microblog',
+  'brannerchinese/Gauge_Voice_Transcription',
+  'brannerchinese/JsPlay',
+  'brannerchinese/notes',
+  'brannerchinese/python_exploration',
+  'brannerchinese/regex_blaster',
+  'brannerchinese/regex_engine_py',
+  'litacho/Algorithms',
+  'litacho/ben-eath-surf',
+  'litacho/bittorrent',
+  'litacho/bittorrent_streamer',
+  'litacho/code_jam',
+  'litacho/friday_job_prep',
+  'litacho/litacho.github.io',
+  'litacho/mini_filters',
+  'litacho/phonebook',
+  'litacho/url-shortener',
+  'litacho/video_torrent',
+  'litacho/website',
+  'mchua/pycon-sigproc',
+  'maryrosecook/asteroids',
+  'maryrosecook/bash',
+  'maryrosecook/circlesbouncingofflines',
+  'maryrosecook/coquette',
+  'maryrosecook/emacs',
+  'maryrosecook/gamelivecode',
+  'deckman/genderator',
+  'deckman/genderbot',
+  'deckman/sgmake',
+  'deckman/tweegen',
+  'davidad/8queens',
+  'davidad/asm_concurrency',
+  'davidad/c_web_app',
+  'davidad/davidad.github.io',
+  'davidad/fhtw',
+  'davidad/forecasting',
+  'davidad/fpew',
+  'davidad/heroku-buildpack-openresty',
+  'davidad/hs_learning_styles',
+  'davidad/mesh',
+  'davidad/nodes',
+  'davidad/openresty-heroku-example',
+  'adewes/awesome-keyboard',
+  'adewes/blitzdb',
+  'adewes/checkmate',
+  'adewes/osm-parser',
+  'adewes/tracerbullet',
+  'KatrinaE/katrinae.github.io',
+  'KatrinaE/phonebook',
+  'KatrinaE/reGrouper',
+  'PaddyBadger/BouncyBitcoinApp',
+  'PaddyBadger/Flipsy',
+  'PaddyBadger/NaughtyFrench',
+  'PaddyBadger/SnakeAndroid',
+  'PaddyBadger/swervy-taxi',
+  'PaddyBadger/tetrisgame',
+  'PaddyBadger/TravelPokerAndroidApp',
+  'PaddyBadger/TravelPokerApp',
+  'PaddyBadger/watertracker',
+  'PaddyBadger/watertrackerexpanded',
+  'PaddyBadger/yelpquadrant',
+  'andreafey/boggle',
+  'andreafey/businesscard',
+  'andreafey/conway',
+  'andreafey/mancalabot',
+  'andreafey/phonebook',
+  'andreafey/tictactoe',
+  'andreafey/torrent',
+  'jdotjdot/BashWeather',
+  'jdotjdot/blog',
+  'jdotjdot/B_FURIOUS',
+  'jdotjdot/clojure-koans',
+  'jdotjdot/Coding-Fun',
+  'jdotjdot/DoorDuino',
+  'jdotjdot/Gum-JJ',
+  'jdotjdot/Hacker-School-Talks',
+  'jdotjdot/hebrew-webapp',
+  'jdotjdot/HS-Phonebook-Challenge',
+  'urthbound/bitcloj',
+  'urthbound/chessbot',
+  'urthbound/cracking',
+  'urthbound/dotfiles',
+  'urthbound/enclojure',
+  'urthbound/esoteric',
+  'urthbound/euler',
+  'urthbound/fux',
+  'urthbound/genotic',
+  'urthbound/google-python-exercises',
+  'urthbound/googlecodejam',
+  'urthbound/hello',
+  'urthbound/hsnotes',
+  'urthbound/jeffo',
+  'urthbound/jeffo.io',
+  'urthbound/jobs',
+  'urthbound/maryclass',
+  'urthbound/musel',
+  'urthbound/nand2tetris',
+  'urthbound/oldblog',
+  'urthbound/phonebook',
+  'urthbound/puzzles',
+  'urthbound/pysudoku',
+  'urthbound/replbot',
+  'mjzffr/htmlparser',
+  'mjzffr/learning',
+  'mjzffr/mjzffr.github.io',
+  'mjzffr/nettt',
+  'mjzffr/tittertactoe',
+  'amygdalama/amygdalama.github.io',
+  'amygdalama/blog-source',
+  'amygdalama/builtins',
+  'amygdalama/clj-playground',
+  'amygdalama/data-structures-and-algorithms',
+  'amygdalama/dive-into-python3',
+  'amygdalama/dotfiles',
+  'amygdalama/furrier-transform',
+  'amygdalama/hacker-school-progress',
+  'amygdalama/ipython-pandas-whoa',
+  'amygdalama/iron-forger',
+  'amygdalama/nagini',
+  'amygdalama/phonebook',
+  'amygdalama/programming-projects',
+  'amygdalama/python-internals',
+  'amygdalama/shortlink',
+  'amygdalama/talks',
+  'amygdalama/tutorials',
+  'rawrjustin/bitcharity',
+  'rawrjustin/det-android',
+  'rawrjustin/det-api',
+  'rawrjustin/itsabeautifulworld',
+  'rawrjustin/ProjectEuler',
+  'rawrjustin/proxy-api',
+  'rawrjustin/rawrjustin.github.io',
+  'vjuutilainen/beautiful-earth',
+  'vjuutilainen/earthquake',
+  'vjuutilainen/elevation',
+  'vjuutilainen/framerun',
+  'vjuutilainen/just-like-in-the-movies',
+  'vjuutilainen/keyboard-of-the-night',
+  'vjuutilainen/scanner',
+  'vjuutilainen/scraper',
+  'vjuutilainen/sound-carpet',
+  'vjuutilainen/street-map',
+  'vjuutilainen/vjuutilainen.github.io',
+  'vjuutilainen/world-map',
+  'damiankao/data-analysis',
+  'damiankao/ec2-nginx-bottle-redis',
+  'damiankao/Fray',
+  'damiankao/gene-ontology-visualization',
+  'damiankao/IntervalTree',
+  'damiankao/lazyGrid',
+  'damiankao/planarian-regeneration-transcriptomics',
+  'surajkapoor/Command-Line-Tool',
+  'surajkapoor/euler_96_sudoku',
+  'surajkapoor/euler_pin_breaker',
+  'surajkapoor/Giggle',
+  'surajkapoor/Hacker-School-Group-Checkin-Allocator-',
+  'surajkapoor/HashTable',
+  'surajkapoor/InstaApp',
+  'surajkapoor/jamjar',
+  'surajkapoor/Link-Shortener',
+  'surajkapoor/login',
+  'surajkapoor/MultiProcessing-Test',
+  'surajkapoor/Site-Crawler',
+  'surajkapoor/Wiki',
+  'akaptur/akaptur.github.com',
+  'brainkim/angular-sudoku',
+  'brainkim/autocomplete-elm',
+  'brainkim/brainkim.github.io',
+  'brainkim/elmy-bird',
+  'brainkim/lsat',
+  'brainkim/minesweeper',
+  'brainkim/reasoned-schemer',
+  'brainkim/transom',
+  'mirkoklukas/cortical-learning-algorithm-js',
+  'mirkoklukas/drawing-and-animation-tool-js',
+  'mirkoklukas/mirkoklukas.github.io',
+  'mirkoklukas/parser-combinator-js',
+  'slawrence/dot_files',
+  'slawrence/grunt-properties-reader',
+  'slawrence/notes',
+  'slawrence/vessel',
+  'slawrence/video-vr-extension',
+  'slawrence/videojs-vr',
+  'slawrence/videojs-vr-demo',
+  'paul-jean/code-dojo',
+  'paul-jean/data-mashup',
+  'paul-jean/dom-viz',
+  'paul-jean/feedme',
+  'paul-jean/git-test',
+  'paul-jean/gol-clojure',
+  'paul-jean/hashtable',
+  'paul-jean/JS_Blog',
+  'paul-jean/paul-jean.github.io',
+  'paul-jean/phonebook',
+  'clin88/ants',
+  'clin88/bitpy',
+  'clin88/clin88.github.io',
+  'clin88/HaskTorrent',
+  'clin88/mudderschool',
+  'clin88/pokerbot',
+  'clin88/pymonads',
+  'clin88/spelling',
+  'rubydog/Algorithms--Design-and-Analysis',
+  'rubydog/attempts-at-C',
+  'rubydog/bittorrent-client',
+  'rubydog/device_orientation',
+  'rubydog/hackermews',
+  'rubydog/locking-granularities',
+  'rubydog/phonebook',
+  'rubydog/rubydog.github.io',
+  'rubydog/telnet',
+  'wismer/algorythmatic',
+  'wismer/bittorrent',
+  'wismer/go',
+  'wismer/hash-table',
+  'wismer/iron-blogger',
+  'wismer/phonebook',
+  'wismer/ruby-rar',
+  'wismer/torrenter',
+  'wismer/unsubber',
+  'wismer/wismer-site',
+  'wismer/wismer.github.io',
+  'lord/blog',
+  'lord/clojure-mancala',
+  'lord/doorbot',
+  'lord/emoji-shell',
+  'lord/fightclub',
+  'lord/flappy-drone',
+  'lord/gmhighscores',
+  'lord/knapsack-asm',
+  'lord/mortalitab',
+  'lord/pagelapse',
+  'lord/platformer',
+  'lord/rustoleum',
+  'zacharym/clojure-hash',
+  'zacharym/cookies',
+  'zacharym/hash-visualizer',
+  'zacharym/img-process',
+  'zacharym/py_phone',
+  'zacharym/resume',
+  'zacharym/rps',
+  'zacharym/rps2',
+  'zacharym/simpleChat',
+  'zacharym/zacharym.github.io',
+  'jesstess/contrib-test',
+  'jesstess/ldd4',
+  'jesstess/Scrabble',
+  'jesstess/Wordplay',
+  'andreecmonette/acmonette-site',
+  'andreecmonette/andreecmonette.github.io',
+  'andreecmonette/d3strace',
+  'andreecmonette/ezip',
+  'andreecmonette/gamebot',
+  'andreecmonette/pydras',
+  'andreecmonette/pyfuncstructs',
+  'andreecmonette/PythonTests',
+  'andreecmonette/WordsearchCurses',
+  'andreecmonette/yapa',
+  'murphsp1/blog_src',
+  'murphsp1/flask_deploy_toy_1',
+  'murphsp1/mafia_zulip_bot',
+  'murphsp1/murphsp1.github.io',
+  'murphsp1/ProjectEuler_Problem96',
+  'murphsp1/ProjectEuler_Python',
+  'murphsp1/test_flask',
+  'murphsp1/WebDevelopmentWithFlask',
+  'lucasnewman11/phonebook-command',
+  'lucasnewman11/poker',
+  'lucasnewman11/python-torrent',
+  'lucasnewman11/python_game_of_life',
+  'lucasnewman11/url-shortener-flask',
+  'cicerojones/4clojures-in-org',
+  'cicerojones/ANSILisp-in-info',
+  'cicerojones/car-vs-cdr',
+  'cicerojones/code-from-PG',
+  'cicerojones/CSP-voiceleading',
+  'cicerojones/FOSS-media-arts-guide',
+  'cicerojones/graph-and-networks',
+  'cicerojones/ICMC-generative-music',
+  'cicerojones/lol-in-org',
+  'cicerojones/on-lisp-notes',
+  'cicerojones/pcset-theory',
+  'cicerojones/post-tonal-overtone',
+  'pgayane/hasex',
+  'pgayane/hasitrp',
+  'pgayane/hsphonebook',
+  'pgayane/jobpractice',
+  'pgayane/jobprep',
+  'pgayane/pgayane.github.io',
+  'pgayane/randomtalk',
+  'pgayane/romugame',
+  'pgayane/secondcookies',
+  'pgayane/soundplay',
+  'pgayane/testrepo',
+  'pgayane/tinydino',
+  'pgayane/trendytech',
+  'pgayane/tryhaskell',
+  'pgayane/visualization-demo',
+  'yomimono/client-fuzzball',
+  'yomimono/elm-finds-kitten',
+  'yomimono/glow-cloud',
+  'yomimono/haskell-tac-toe',
+  'plredmond/flask-oauth-hackerschool-py',
+  'plredmond/gltut_haskell-gpipe',
+  'plredmond/hascheme_hs',
+  'plredmond/irpy',
+  'plredmond/openresty-heroku-example',
+  'plredmond/plredmond.github.io',
+  'plredmond/radiosite',
+  'plredmond/spectogram3d_hs',
+  'plredmond/spectrogrampy',
+  'plredmond/udp-echo-server-hs',
+  'christopherjamesryan/christopherjamesryan.github.io',
+  'christopherjamesryan/Eye-Tracker',
+  'christopherjamesryan/Playlist-Sculptor',
+  'marksamman/bencode',
+  'marksamman/gotorrent',
+  'marksamman/jslinkshortener',
+  'marksamman/mta-json-api',
+  'marksamman/pylinkshortener',
+  'stuartsan/algscourse',
+  'stuartsan/nand2tetris',
+  'stuartsan/prisonstudies',
+  'stuartsan/umphtunes',
+  'ginaschmalzle/blog_source',
+  'ginaschmalzle/elastichalfspace',
+  'ginaschmalzle/fibonacci',
+  'ginaschmalzle/ginaschmalzle.github.io',
+  'ginaschmalzle/GMT_DataViz',
+  'ginaschmalzle/tohoku_eq',
+  'ginaschmalzle/vectorprojector',
+  'rileyjshaw/2p-snake',
+  'rileyjshaw/boxes',
+  'rileyjshaw/BTF',
+  'rileyjshaw/composer',
+  'rileyjshaw/fastdraw',
+  'rileyjshaw/git-cheatsheet',
+  'rileyjshaw/hs-goals',
+  'rileyjshaw/important-people',
+  'rileyjshaw/mean-tone',
+  'rileyjshaw/own-this-website',
+  'rileyjshaw/own-this-website-global',
+  'rileyjshaw/polyglot',
+  'rileyjshaw/rileyjshaw.github.io',
+  'jskelcy/colorblender',
+  'jskelcy/dotfiles',
+  'jskelcy/Hektor',
+  'jskelcy/life',
+  'jskelcy/NVClone',
+  'jskelcy/phonesort',
+  'jskelcy/RegEx',
+  'jskelcy/SocTacToe',
+  'subsetpark/abba',
+  'subsetpark/blog',
+  'subsetpark/gitp',
+  'subsetpark/haskell-exercises',
+  'subsetpark/logl',
+  'subsetpark/necktie',
+  'subsetpark/posical',
+  'subsetpark/posi_web',
+  'subsetpark/punc',
+  'subsetpark/pyACH',
+  'subsetpark/subsetpark.github.io',
+  'rpsoko/anon-bot',
+  'rpsoko/MatrixLibMini',
+  'rpsoko/my_dictionary',
+  'rpsoko/phone_book',
+  'rpsoko/project_euler',
+  'rpsoko/PyKu',
+  'rpsoko/rpsoko.github.io',
+  'rpsoko/rpsoko_pelican_source',
+  'rpsoko/space_invaders',
+  'rpsoko/url_shortener',
+  'Will-Sommers/draw-me',
+  'Will-Sommers/madlibs',
+  'Will-Sommers/MIHS-tip-calc',
+  'Will-Sommers/mock-me',
+  'Will-Sommers/om-tube-tracker',
+  'Will-Sommers/ptucker',
+  'Will-Sommers/script-ed-annotate',
+  'leahsteinberg/bittorrent',
+  'leahsteinberg/calculator',
+  'leahsteinberg/connectfour',
+  'leahsteinberg/leahsteinberg.github.io',
+  'leahsteinberg/learning_visualization',
+  'leahsteinberg/mafia',
+  'leahsteinberg/nodemoji',
+  'leahsteinberg/pixelparty',
+  'leahsteinberg/pong',
+  'leahsteinberg/tomplusplus',
+  'leahsteinberg/twittersearch',
+  'leahsteinberg/whisperish',
+  'ptn/batch-stats',
+  'ptn/btree',
+  'ptn/guess',
+  'ptn/kepler',
+  'madhuvishy/chainreact-clj',
+  'madhuvishy/cheating-countdown',
+  'madhuvishy/friday',
+  'madhuvishy/GitBlame',
+  'madhuvishy/joy-of-clojure',
+  'madhuvishy/ray-tracer',
+  'madhuvishy/sicp',
+  'madhuvishy/url-shortener',
+  'madhuvishy/zulip-focus',
+  'carljv/HS',
+  'carljv/Queries',
+  'carljv/slendermeans.org',
+  'carljv/xrefs',
+  'neerajwahi/neerajwahi.github.io',
+  'neerajwahi/pairjam',
+  'adwhit/adwhit.github.io',
+  'adwhit/chesskell',
+  'adwhit/euler',
+  'adwhit/opto',
+  'adwhit/ray',
+  'adwhit/rclone',
+  'adwhit/uCTF-rs',
+  'bwigoder/drivebackup',
+  'bwigoder/pythontest',
+  'bwigoder/pythontut',
+  'bwigoder/tetris' ]
