@@ -102,9 +102,8 @@ async.eachSeries(userList, function(user, nextUser) {
       if(err) {
         console.log('error while iterating over repos of user ' + user);
         console.log(err);
-      } else {
-        nextUser();
       }
+      nextUser();
     });
   });
 }, function(err) {
